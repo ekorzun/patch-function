@@ -1,11 +1,5 @@
 # patch-function
 
-// Args:
-//  fn [function] – function needs to be patched
-//  after [function] – function or object
-//  condition [function] - 
-//
-
 Example:
 
 ```
